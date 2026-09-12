@@ -11,4 +11,4 @@ This is the Capstone Project for the Meta Front-End Developer Professional Certi
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   git clone https://github.com/afshanazeem302-ctrl/meta-frontend-capstone.git
